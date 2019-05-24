@@ -6,4 +6,4 @@
 
 3.  Add "Patron Licenses" as a perk of one or more rewards tiers.
 
-4.  Add this license to your software's repositories.
+4.  Add this license to your software's repositories, and fill in the [blanks].
