@@ -8,7 +8,7 @@ This license gives those supporting me as qualifying patrons permission exceptio
 
 ## Acceptance
 
-In order to get any license under these terms, you must qualify as a patron of mine and agree to their rules.  Those rules are both obligations under our agreement and conditions to the license granted to you under these terms.  That agreement and your license continue only while you qualify as a patron.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
+In order to get any license under these terms, you must qualify under [Patrons](#patrons) and agree to their rules.  Those rules are both obligations under our agreement and conditions to the license granted to you under these terms.  That agreement and your license continue only while you qualify as a patron.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
 
 ## Patrons
 
