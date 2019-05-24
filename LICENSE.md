@@ -14,7 +14,7 @@ In order to get any license under these terms, you must qualify under [Patrons](
 
 ## Patrons
 
-To qualify as a patron for this license, you must be enrolled to send me regular payments through any public platform where I request payments in exchange for tiers of perks in amounts qualifying you for a tier of perks that includes patron licenses, or otherwise identifies this license.
+To qualify as a patron for this license, you must be enrolled to send me regular payments through any public platform where I request payments in exchange for tiers of perks in amounts qualifying you for a tier of perks that includes "patron licenses", or otherwise identifies this license.
 
 ## Scope
 
