@@ -2,6 +2,8 @@
 
 Developer: [Developer's Name]
 
+Become a Patron: [URL]
+
 ## Purpose
 
 This license gives those supporting me as qualifying patrons permission exceptions to any noncommercial or copyleft rules of the public license for this software, while continuing to protect me from from liability.
