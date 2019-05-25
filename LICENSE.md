@@ -14,7 +14,7 @@ This license gives everyone supporting contributors to this software as qualifyi
 
 ## Acceptance
 
-In order to get any license under these terms, you must qualify under [Patrons](#patrons) and agree to their rules.  Those rules are both obligations under that agreement and conditions to your license.  That agreement and your license continue only while you qualify as a patron.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
+In order to agree to these terms and receive a license, you must qualify under [Patrons](#patrons).  The rules of these terms are both obligations under your agreement and conditions to your license.  That agreement and your license continue only while you qualify as a patron.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
 
 ## Patrons
 
