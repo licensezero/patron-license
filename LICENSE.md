@@ -22,7 +22,15 @@ To accept these terms, you must be enrolled to make regular payments through any
 
 ## Scope
 
-This license applies only to you.  You may not transfer it anyone else.  However, if you combine this software with other software in a larger application, you may sublicense this software as part of your larger application, and allow further sublicensing in turn, under these rules:
+Except under [Seat](#seat) and [Users](#end-users), you may not sublicense or transfer any agreement or license under these terms to anyone else.
+
+## Seat
+
+If a legal entity, rather than an individual, accepts these terms, the entity may sublicense one individual employee or independent contractor at any given time.  If they beak any rule of these terms, the entity will stand directly responsible.
+
+## Applications
+
+If you combine this software with other software in a larger application, you may sublicense this software as part of your larger application, and allow further sublicensing in turn, under these rules:
 
 1.  Your larger application must have significant additional content or functionality beyond that of this software, and end users must license your larger application primarily for that added content or functionality.
 
@@ -40,7 +48,7 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 ## Excuse
 
-If anyone notifies you in writing that you have not complied with [Notices](#notices), you can keep your license by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your license under these terms ends immediately.
+If anyone notifies you in writing that you have broken any rule of these terms, you can keep your agreement and your license by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your agreement under these terms ends immediately, and your license ends with it.
 
 ## Patent
 
