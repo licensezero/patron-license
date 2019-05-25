@@ -10,7 +10,7 @@ Developers:
 
 ## Purpose
 
-This license gives everyone supporting contributors to this software as qualifying patrons permission to ignore any noncommercial or copyleft rules of the public license for this software, while continuing to protect contributors from from liability.
+This license gives everyone supporting contributors to this software as qualifying patrons permission to ignore any noncommercial or copyleft rules of its public license, while continuing to protect contributors from liability.
 
 ## Acceptance
 
