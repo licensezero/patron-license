@@ -22,7 +22,7 @@ To accept these terms, you must be enrolled to make regular payments through any
 
 ## Scope
 
-Except under [Seat](#seat) and [Users](#end-users), you may not sublicense or transfer any agreement or license under these terms to anyone else.
+Except under [Seat](#seat) and [Applications](#applications), you may not sublicense or transfer any agreement or license under these terms to anyone else.
 
 ## Seat
 
