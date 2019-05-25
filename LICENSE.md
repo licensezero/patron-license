@@ -4,9 +4,9 @@ Payment Platforms:
 - [URL]
 - [URL]
 
-Developers:
-- [Developer's Name]
-- [Developer's Name]
+Participating Contributors:
+- [Contributor's Name]
+- [Contributor's Name]
 
 ## Purpose
 
