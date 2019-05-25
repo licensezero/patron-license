@@ -44,7 +44,7 @@ Each contributor licenses you to do everything with this software that would oth
 
 ## Notices
 
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the texts of both this license and the public license for this software.
+You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the texts of both this license and the free public license for this software.
 
 ## Excuse
 
