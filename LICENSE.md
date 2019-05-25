@@ -26,7 +26,7 @@ Except under [Seat](#seat) and [Applications](#applications), you may not sublic
 
 ## Seat
 
-If a legal entity, rather than an individual, accepts these terms, the entity may sublicense one individual employee or independent contractor at any given time.  If they beak any rule of these terms, the entity will stand directly responsible.
+If a legal entity, rather than an individual, accepts these terms, the entity may sublicense one individual employee or independent contractor at any given time.  If the employee or contractor beaks any rule of these terms, the entity will stand directly responsible.
 
 ## Applications
 
