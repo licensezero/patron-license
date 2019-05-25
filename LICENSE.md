@@ -1,20 +1,24 @@
 # Patron License VERSION
 
-Developer: [Developer's Name]
+Payment Platforms:
+- [URL]
+- [URL]
 
-Become a Patron: [URL]
+Developers:
+- [Developer's Name]
+- [Developer's Name]
 
 ## Purpose
 
-This license gives those supporting me as qualifying patrons permission exceptions to any noncommercial or copyleft rules of the public license for this software, while continuing to protect me from from liability.
+This license gives everyone supporting contributors to this software as qualifying patrons permission to ignore any noncommercial or copyleft rules of the public license for this software, while continuing to protect contributors from from liability.
 
 ## Acceptance
 
-In order to get any license under these terms, you must qualify under [Patrons](#patrons) and agree to their rules.  Those rules are both obligations under our agreement and conditions to the license granted to you under these terms.  That agreement and your license continue only while you qualify as a patron.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
+In order to get any license under these terms, you must qualify under [Patrons](#patrons) and agree to their rules.  Those rules are both obligations under that agreement and conditions to your license.  That agreement and your license continue only while you qualify as a patron.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
 
 ## Patrons
 
-To qualify as a patron for this license, you must be enrolled to send me regular payments through any public platform where I request payments in exchange for tiers of perks in amounts qualifying you for a tier of perks that includes "patron licenses", or otherwise identifies this license.
+To qualify as a patron for this license, you must be enrolled to send regular payments through any of the payment platforms listed above in amounts qualifying you for a tier of rewards that includes "patron licenses", or otherwise identifies licenses under these terms.
 
 ## Scope
 
@@ -28,7 +32,7 @@ This license applies only to you.  However, if you combine this software with ot
 
 ## Copyright
 
-I license you to do everything with this software that would otherwise infringe my copyright in it.
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
 
 ## Notices
 
@@ -40,12 +44,12 @@ If anyone notifies you in writing that you have not complied with [Notices](#not
 
 ## Patent
 
-I license you to do everything with this software that would otherwise infringe any patent claims I can license or become able to license.
+Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
 
 ## Reliability
 
-I cannot revoke any license granted under these terms, but your license may end if you break any rule of these terms.
+No contributor can revoke this license, but your license may end if you break any rules of these terms.
 
 ## No Liability
 
-***As far as the law allows, this software comes as is, without any warranty or condition, and I will be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
