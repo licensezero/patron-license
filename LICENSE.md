@@ -22,7 +22,7 @@ To qualify as a patron for this license, you must be enrolled to send regular pa
 
 ## Scope
 
-This license applies only to you.  However, if you combine this software with other software in a larger application, you may sublicense this software as part of your larger application, and allow further sublicensing in turn, under these rules:
+This license applies only to you.  You may not transfer it anyone else.  However, if you combine this software with other software in a larger application, you may sublicense this software as part of your larger application, and allow further sublicensing in turn, under these rules:
 
 1.  Your larger application must have significant additional content or functionality beyond that of this software, and end users must license your larger application primarily for that added content or functionality.
 
