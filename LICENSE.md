@@ -60,7 +60,7 @@ Each contributor licenses you to do everything with this software that would oth
 
 ## Reliability
 
-No contributor can revoke this license, but your license may end if you break any rules of these terms.
+No contributor can revoke this license, but your license may end if you break any rule of these terms.
 
 ## No Liability
 
