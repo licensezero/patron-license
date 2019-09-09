@@ -1,4 +1,6 @@
-# Patron License VERSION
+# Patron License
+
+Development Draft
 
 Payment Platforms:
 - [URL]
