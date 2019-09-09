@@ -14,7 +14,7 @@ Participating Contributors:
 
 ## Purpose
 
-This license gives everyone supporting contributors to this software as qualifying patrons permission to ignore any noncommercial or copyleft rules of its free public license, while continuing to protect contributors from liability.
+This license gives everyone patronizing contributors to this software permission to ignore any noncommercial or copyleft rules of its free public license, while continuing to protect contributors from liability.
 
 ## Acceptance
 
