@@ -1,6 +1,4 @@
-# Patron License
-
-Development Draft
+# Patron License 1.0.0
 
 Payment Platforms:
 {{#platforms}}
