@@ -3,12 +3,14 @@
 Development Draft
 
 Payment Platforms:
-- {{{URL}}}
-- {{{URL}}}
+{{#platforms}}
+- <{{{url}}}>
+{{/platforms}}
 
 Participating Contributors:
-- {{{Contributor's Name}}}
-- {{{Contributor's Name}}}
+{{#contributors}}
+- {{{name}}}
+{{/contributors}}
 
 ## Purpose
 
