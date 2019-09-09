@@ -22,7 +22,7 @@ In order to agree to these terms and receive a license, you must qualify under [
 
 ## Patrons
 
-To accept these terms, you must be enrolled to make regular payments through any of the payment platforms pages listed above, in amounts qualifying you for a tier of rewards that includes "patron licenses" or otherwise identifies licenses under these terms.
+To accept these terms, you must be enrolled to make regular payments through any of the payment platforms pages listed above, in amounts qualifying you for a tier that includes a "patron license" or otherwise identifies a license under these terms as a reward.
 
 ## Scope
 
